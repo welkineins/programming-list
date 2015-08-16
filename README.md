@@ -3,8 +3,11 @@ A programming related tools and libraries list
 
 ## C/C++
 
-### Standard Library
+### Base Library
 - [POCO](http://pocoproject.org/) - Modern, powerful open source C++ class libraries for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
+
+### Generator
+- [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
@@ -21,6 +24,10 @@ A programming related tools and libraries list
 
 ### Map
 - [TURF](http://turfjs.org/) - Advanced geospatial analysis for browsers and node
+
+### Testing
+- [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+- [Selenium](http://www.seleniumhq.org/) - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
 
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
