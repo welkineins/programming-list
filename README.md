@@ -19,6 +19,9 @@ A programming related tools and libraries list
 
 ## JavaScript
 
+### UI Framework
+- [Vue.js](http://vuejs.org/) - Vue.js is a library for building modern web interfaces. It provides data-reactive components with a simple and flexible API.
+
 ### Mobile UI Framework
 - [Ironic](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
 
