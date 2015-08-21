@@ -5,6 +5,7 @@ A programming related tools and libraries list
 
 ### Base Library
 - [POCO](http://pocoproject.org/) - Modern, powerful open source C++ class libraries for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
+- [Atria](http://abletonag.github.io/atria/) - Atria is a toolkit for modern C++ development. It provides core components that extend the standard library's capabilities. It provides (mostly) header-only libraries of general interest, in the spirit of the STL, Boost, Adobe Source Libraries or Facebook's Folly and Fatal.
 
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
