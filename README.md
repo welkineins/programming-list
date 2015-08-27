@@ -36,3 +36,8 @@ A programming related tools and libraries list
 
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
+
+## Node.js
+
+### Debug
+- [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
