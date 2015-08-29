@@ -19,6 +19,9 @@ A programming related tools and libraries list
 ### Build
 - [Biicode](https://www.biicode.com/) - C and C++ Dependency Manager with CMake on steroids
 
+### Protocol
+- [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+
 ## Java
 
 ### Caching
@@ -32,6 +35,9 @@ A programming related tools and libraries list
 ### Mobile UI Framework
 - [Ironic](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
 
+### Web Framework
+- (Play)[https://www.playframework.com/] - ay is based on a lightweight, stateless, web-friendly architecture. Built on Akka, Play provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications.
+
 ### Visualization
 - [p5.js](http://p5js.org/) - p5.js is a JavaScript library that starts with the original goal of Processing.
 - [TURF](http://turfjs.org/) - Advanced geospatial analysis for browsers and node
@@ -42,6 +48,9 @@ A programming related tools and libraries list
 
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
+
+### Protocol
+- [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
 ## Node.js
 
