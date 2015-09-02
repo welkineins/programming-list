@@ -22,6 +22,9 @@ A programming related tools and libraries list
 ### Protocol
 - [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
+### Network
+- [libtins](http://libtins.github.io/) - libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.
+
 ## Java
 
 ### Caching
