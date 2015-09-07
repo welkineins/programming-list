@@ -62,6 +62,11 @@ A programming related tools and libraries list
 ### Protocol
 - [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
+### Slide
+- [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS
+- [reveal.js](https://github.com/hakimel/reveal.js/) - A framework for easily creating beautiful presentations using HTML. 
+- [Slidify](https://github.com/ramnathv/slidify/) - Slidify helps you create and publish beautiful HTML5 presentations from RMarkdown
+
 ## Node.js
 
 ### Debug
