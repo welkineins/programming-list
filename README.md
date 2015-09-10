@@ -22,6 +22,9 @@ A programming related tools and libraries list
 ### Build
 - [Biicode](https://www.biicode.com/) - C and C++ Dependency Manager with CMake on steroids
 
+### Linter
+- [flint](https://github.com/facebook/flint) - An open-source lint program for C++ developed by, and used at Facebook.
+
 ### Protocol
 - [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 
