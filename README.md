@@ -10,6 +10,9 @@ A programming related tools and libraries list
 ### GUI Framework
 - [CopperSpice](http://www.copperspice.com/) - CopperSpice is a C++ library derived from the existing Qt 4.8 framework. Our goal was to change the core design of the libraries, leveraging template functionality and C++11 capabilities.
 
+### Web Framework
+- [Wt](http://www.webtoolkit.eu/wt) - Wt (pronounced as witty) is a C++ library for developing web applications. The API is widget-centric and uses well-tested patterns of desktop GUI development tailored to the web. 
+
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
