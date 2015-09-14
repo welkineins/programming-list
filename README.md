@@ -13,6 +13,9 @@ A programming related tools and libraries list
 ### Web Framework
 - [Wt](http://www.webtoolkit.eu/wt) - Wt (pronounced as witty) is a C++ library for developing web applications. The API is widget-centric and uses well-tested patterns of desktop GUI development tailored to the web. 
 
+### Actor Framework
+- [CAF_C++ Actor Framework](http://actor-framework.org/) - An Open Source Implementation  of the Actor Model in C++.
+
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
