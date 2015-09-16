@@ -34,6 +34,9 @@ A programming related tools and libraries list
 ### Linter
 - [flint](https://github.com/facebook/flint) - An open-source lint program for C++ developed by, and used at Facebook.
 
+### Memory
+- [jemalloc](http://www.canonware.com/jemalloc/) - jemalloc is a general purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support.
+
 ### Protocol
 - [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 - [FlatBuffers](https://google.github.io/flatbuffers/) - FlatBuffers is an efficient cross platform serialization library for C++, with support for Java, C# and Go. It was created at Google specifically for game development and other performance-critical applications.
