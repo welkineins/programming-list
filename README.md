@@ -15,6 +15,7 @@ A programming related tools and libraries list
 
 ### Actor Framework
 - [CAF_C++ Actor Framework](http://actor-framework.org/) - An Open Source Implementation  of the Actor Model in C++.
+- [SObjectizer](http://sourceforge.net/projects/sobjectizer/) - SObjectizer is a small tool for simplification of development of concurrent and event-driven applications in C++. It was used for projects of various sizes: from very small utilities to large distributed and highly loaded applications.
 
 ### Concurrent Library
 - [CDS](http://libcds.sourceforge.net/) - CDS is a C++ template library of lock-free and fine-grained algorithms. It contains a collection of concurrent data structure implementations.
