@@ -87,3 +87,9 @@ A programming related tools and libraries list
 
 ### Debug
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
+
+### HTTP
+- [Request](https://github.com/request/request) - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
+
+### i18n
+- [chinese-conv](https://www.npmjs.com/package/chinese-conv) - 簡轉繁，繁轉簡。Conversion between Traditional and Simplified Chinese
