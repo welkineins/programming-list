@@ -35,6 +35,7 @@ A programming related tools and libraries list
 - [Thrift](https://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
 - [FlatBuffers](https://google.github.io/flatbuffers/) - FlatBuffers is an efficient cross platform serialization library for C++, with support for Java, C# and Go. It was created at Google specifically for game development and other performance-critical applications.
 - [MessagePack](http://msgpack.org/) - MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves.
+- [Avro](https://avro.apache.org/) - Apache Avro™ is a data serialization system.
 
 ### Network
 - [libtins](http://libtins.github.io/) - libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.
