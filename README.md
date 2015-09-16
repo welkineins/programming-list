@@ -16,6 +16,9 @@ A programming related tools and libraries list
 ### Actor Framework
 - [CAF_C++ Actor Framework](http://actor-framework.org/) - An Open Source Implementation  of the Actor Model in C++.
 
+### Concurrent Library
+- [CDS](http://libcds.sourceforge.net/) - CDS is a C++ template library of lock-free and fine-grained algorithms. It contains a collection of concurrent data structure implementations.
+
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
