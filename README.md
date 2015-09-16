@@ -22,6 +22,9 @@ A programming related tools and libraries list
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
+### Media
+- [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+
 ### Math
 - [Libmvec](https://sourceware.org/glibc/wiki/libmvec) - Libmvec is vector math library added in Glibc 2.22.
 
