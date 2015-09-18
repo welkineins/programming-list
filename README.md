@@ -49,6 +49,7 @@ A programming related tools and libraries list
 
 ### Network
 - [libtins](http://libtins.github.io/) - libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.
+- [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
 
 ### Signal/Slot
 - [nano-signal-slot](https://github.com/NoAvailableAlias/nano-signal-slot) - Pure C++11 Signals and Slots
