@@ -97,6 +97,10 @@ A programming related tools and libraries list
 - [reveal.js](https://github.com/hakimel/reveal.js/) - A framework for easily creating beautiful presentations using HTML. 
 - [Slidify](https://github.com/ramnathv/slidify/) - Slidify helps you create and publish beautiful HTML5 presentations from RMarkdown
 
+### Editor
+- [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
+- [MediumEditor](https://github.com/yabwe/medium-editor) - This is a clone of medium.com inline editor toolbar. MediumEditor has been written using vanilla JavaScript, no additional frameworks required.
+
 ## Node.js
 
 ### Debug
