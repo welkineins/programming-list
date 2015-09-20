@@ -51,6 +51,7 @@
 - [FlatBuffers](https://google.github.io/flatbuffers/) - FlatBuffers is an efficient cross platform serialization library for C++, with support for Java, C# and Go. It was created at Google specifically for game development and other performance-critical applications.
 - [MessagePack](http://msgpack.org/) - MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves.
 - [Avro](https://avro.apache.org/) - Apache Avro™ is a data serialization system.
+- [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable unicast and multicast message transport.
 
 ### Network
 - [libtins](http://libtins.github.io/) - libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.
