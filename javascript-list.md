@@ -33,6 +33,7 @@
 ### Editor
 - [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [MediumEditor](https://github.com/yabwe/medium-editor) - This is a clone of medium.com inline editor toolbar. MediumEditor has been written using vanilla JavaScript, no additional frameworks required.
+- [ContentTools](https://github.com/getmeuk/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
 
 ### Meta Language
 - [Scala.js](http://www.scala-js.org/) - Scala.js compiles Scala code to JavaScript, allowing you to write your web application entirely in Scala! Take a look at the project gallery to see what kind of things you can build with Scala.js.
