@@ -14,6 +14,7 @@
 - [TURF](http://turfjs.org/) - Advanced geospatial analysis for browsers and node
 - [odyssey.js](https://github.com/CartoDB/odyssey.js) - The odyssey.js library is being developed to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. The library is open source and freely available to use in your projects. It is initially being built to work with most modern browsers.
 - [Rickshaw](http://code.shutterstock.com/rickshaw/) - Rickshaw is a JavaScript toolkit for creating interactive time series graphs.
+- [TimelineJS](https://timeline3.knightlab.com/) - TimelineJS is Knight Lab's most widely used product. TimelineJS 3 is a full rewrite designed to make this popular tool more flexible for authors and developers.
 
 ### Testing
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
