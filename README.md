@@ -17,6 +17,11 @@ A programming related tools and libraries list
 - [CAF_C++ Actor Framework](http://actor-framework.org/) - An Open Source Implementation  of the Actor Model in C++.
 - [SObjectizer](http://sourceforge.net/projects/sobjectizer/) - SObjectizer is a small tool for simplification of development of concurrent and event-driven applications in C++. It was used for projects of various sizes: from very small utilities to large distributed and highly loaded applications.
 
+### Event-Driven
+- [libev](http://software.schmorp.de/pkg/libev.html) - A full-featured and high-performance (see benchmark) event loop that is loosely modelled after libevent, but without its limitations and bugs. It is used in GNU Virtual Private Ethernet, rxvt-unicode, auditd, the Deliantra MORPG Server and Client, and many other programs.
+- [libevent](http://libevent.org/) - The libevent API provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached. Furthermore, libevent also support callbacks due to signals or regular timeouts.
+- [libuv](http://libuv.org/) - libuv is a multi-platform support library with a focus on asynchronous I/O.
+
 ### Concurrent Library
 - [CDS](http://libcds.sourceforge.net/) - CDS is a C++ template library of lock-free and fine-grained algorithms. It contains a collection of concurrent data structure implementations.
 
