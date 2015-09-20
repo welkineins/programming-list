@@ -12,6 +12,7 @@
 ### Visualization
 - [p5.js](http://p5js.org/) - p5.js is a JavaScript library that starts with the original goal of Processing.
 - [TURF](http://turfjs.org/) - Advanced geospatial analysis for browsers and node
+- [odyssey.js](https://github.com/CartoDB/odyssey.js) - The odyssey.js library is being developed to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. The library is open source and freely available to use in your projects. It is initially being built to work with most modern browsers.
 
 ### Testing
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
