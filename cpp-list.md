@@ -22,6 +22,9 @@
 ### Concurrent Library
 - [CDS](http://libcds.sourceforge.net/) - CDS is a C++ template library of lock-free and fine-grained algorithms. It contains a collection of concurrent data structure implementations.
 
+### Function
+- [Fit](https://github.com/pfultz2/Fit) - Fit is a header-only C++11 library that provides utilities for functions and function objects.
+
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
