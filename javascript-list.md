@@ -1,5 +1,8 @@
 ## JavaScript
 
+### App Framework
+- [Meteor](https://www.meteor.com/) - Meteor is a complete open source platform for building web and mobile apps in pure JavaScript.
+
 ### UI Framework
 - [Vue.js](http://vuejs.org/) - Vue.js is a library for building modern web interfaces. It provides data-reactive components with a simple and flexible API.
 
@@ -7,7 +10,7 @@
 - [Ironic](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
 
 ### Web Framework
-- (Play)[https://www.playframework.com/] - ay is based on a lightweight, stateless, web-friendly architecture. Built on Akka, Play provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications.
+- [Play](https://www.playframework.com/) - ay is based on a lightweight, stateless, web-friendly architecture. Built on Akka, Play provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications.
 
 ### Visualization
 - [p5.js](http://p5js.org/) - p5.js is a JavaScript library that starts with the original goal of Processing.
