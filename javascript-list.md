@@ -12,6 +12,9 @@
 ### Web Framework
 - [Play](https://www.playframework.com/) - ay is based on a lightweight, stateless, web-friendly architecture. Built on Akka, Play provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications.
 
+### Desktop Framework
+- [MacGap](https://github.com/MacGapProject/MacGap1) - The MacGap project provides HTML/JS/CSS developers an Xcode project for developing Native OSX Apps that run in OSX's WebView and take advantage of WebKit technologies.
+
 ### Visualization
 - [p5.js](http://p5js.org/) - p5.js is a JavaScript library that starts with the original goal of Processing.
 - [TURF](http://turfjs.org/) - Advanced geospatial analysis for browsers and node
