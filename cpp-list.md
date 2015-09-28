@@ -63,3 +63,6 @@
 ### Test
 - [CDSChecker](http://plrg.eecs.uci.edu/software_page/42-2/) - CDSChecker is a model checker for C11/C++11 which exhaustively explores the behaviors of code under the C/C++ memory model. It uses partial order reduction as well as a few other novel techniques to eliminate time spent on redundant execution behaviors and to significantly shrink the state space.
 - [CPP Testing Example](https://github.com/spencewenski/cpp_testing_example)- This is an example of how to set up Google testing frameworks for a project.
+
+### IDE
+- [CLion](https://www.jetbrains.com/clion/) - This powerful IDE helps you develop in C and C++ on Linux, OS X and Windows, enhancing your productivity with a smart editor, code quality assurance, automated refactorings, and deep integration with CMake build system.
