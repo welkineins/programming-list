@@ -71,3 +71,4 @@
 - [Duo](http://duojs.org/) - Duo is a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 - [jspm.js](http://jspm.io/) - Frictionless browser package management. jspm is a package manager for the SystemJS universal module loader, built on top of the dynamic ES6 module loader.
 - [Bower](http://bower.io/) - A package manager for the web
+- [Jam](http://jamjs.org/) - For front-end developers who crave maintainable assets, Jam is a package manager for JavaScript. Unlike other repositories, we put the browser first.
