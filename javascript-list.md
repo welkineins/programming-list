@@ -5,6 +5,7 @@
 
 ### UI Framework
 - [Vue.js](http://vuejs.org/) - Vue.js is a library for building modern web interfaces. It provides data-reactive components with a simple and flexible API.
+- [Aurelia](http://aurelia.io/index.html) - Aurelia is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity.
 
 ### Mobile UI Framework
 - [Ironic](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
