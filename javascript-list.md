@@ -37,6 +37,7 @@
 - [remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool targeted at people who know their way around HTML and CSS
 - [reveal.js](https://github.com/hakimel/reveal.js/) - A framework for easily creating beautiful presentations using HTML. 
 - [Slidify](https://github.com/ramnathv/slidify/) - Slidify helps you create and publish beautiful HTML5 presentations from RMarkdown
+- [SlideNow](https://www.slidenow.com/) - 儲存你的投影片，Markdown你的投影片. Slide Now 讓您建立你的投影片，展示你的投影片，分享你的投影片.
 
 ### Editor
 - [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
@@ -45,6 +46,9 @@
 
 ### Meta Language
 - [Scala.js](http://www.scala-js.org/) - Scala.js compiles Scala code to JavaScript, allowing you to write your web application entirely in Scala! Take a look at the project gallery to see what kind of things you can build with Scala.js.
+
+### IoT
+- [cnc.js](http://cheton.github.io/cnc.js/) - CNC.js is a web-based CNC milling controller for the Arduino running GRBL.
 
 ## Node.js
 
