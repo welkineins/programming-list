@@ -63,3 +63,6 @@
 
 ### Runtime
 - [runtime.js](http://runtimejs.org/) - runtime.js is an open-source library operating system for the cloud that runs JavaScript, could be bundled up with an application and deployed as a lightweight and immutable VM image.
+
+### Developement
+- [Node-dev](https://github.com/fgnass/node-dev) - Node-dev is a development tool for Node.js that automatically restarts the node process when a file is modified.
