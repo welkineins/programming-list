@@ -6,9 +6,11 @@
 ### UI Framework
 - [Vue.js](http://vuejs.org/) - Vue.js is a library for building modern web interfaces. It provides data-reactive components with a simple and flexible API.
 - [Aurelia](http://aurelia.io/index.html) - Aurelia is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity.
+- [Cycle.js](http://cycle.js.org/) - A fully reactive JavaScript framework for Human-Computer Interaction
 
 ### Mobile UI Framework
 - [Ironic](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
+- [React Native](https://facebook.github.io/react-native/) - React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React. The focus of React Native is on developer efficiency across all the platforms you care about — learn once, write anywhere. Facebook uses React Native in multiple production apps and will continue investing in React Native. 
 
 ### Web Framework
 - [Play](https://www.playframework.com/) - ay is based on a lightweight, stateless, web-friendly architecture. Built on Akka, Play provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications.
@@ -27,6 +29,9 @@
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 - [Selenium](http://www.seleniumhq.org/) - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
 - [Mocha](https://mochajs.org/) - Mocha is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
+
+### Code Coverage
+- [istanbul](https://www.npmjs.com/package/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests
 
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
