@@ -25,6 +25,9 @@
 - [Rickshaw](http://code.shutterstock.com/rickshaw/) - Rickshaw is a JavaScript toolkit for creating interactive time series graphs.
 - [TimelineJS](https://timeline3.knightlab.com/) - TimelineJS is Knight Lab's most widely used product. TimelineJS 3 is a full rewrite designed to make this popular tool more flexible for authors and developers.
 
+### UI Component
+- [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.
+
 ### Testing
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 - [Selenium](http://www.seleniumhq.org/) - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
