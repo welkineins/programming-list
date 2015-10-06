@@ -27,6 +27,7 @@
 
 ### UI Component
 - [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.
+- [clipboard.js](http://zenorocha.github.io/clipboard.js/) - Copying text to the clipboard shouldn't be hard. It shouldn't require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn't depend on Flash or any bloated framework.
 
 ### Testing
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
