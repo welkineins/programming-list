@@ -17,6 +17,7 @@
 
 ### Desktop Framework
 - [MacGap](https://github.com/MacGapProject/MacGap1) - The MacGap project provides HTML/JS/CSS developers an Xcode project for developing Native OSX Apps that run in OSX's WebView and take advantage of WebKit technologies.
+- [Electron](http://electron.atom.io/) - With Electron, creating a desktop application for your company or idea is easy. Initially developed for GitHub's Atom editor, Electron has since been used to create applications by companies like Microsoft, Facebook, Slack, and Docker.
 
 ### Visualization
 - [p5.js](http://p5js.org/) - p5.js is a JavaScript library that starts with the original goal of Processing.
