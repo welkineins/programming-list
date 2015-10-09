@@ -34,6 +34,9 @@
 ### Loader
 - [SystemJS](https://github.com/systemjs/systemjs) - Universal dynamic module loader - loads ES6 modules, AMD, CommonJS and global scripts in the browser and NodeJS. Works with both Traceur and Babel.
 
+### Transpiler
+- [Babel](https://babeljs.io/) - Babel is a JavaScript compiler. Use next generation JavaScript, today.
+
 ### Testing
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
 - [Selenium](http://www.seleniumhq.org/) - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
