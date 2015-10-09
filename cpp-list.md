@@ -4,8 +4,9 @@
 - [POCO](http://pocoproject.org/) - Modern, powerful open source C++ class libraries for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
 - [Atria](http://abletonag.github.io/atria/) - Atria is a toolkit for modern C++ development. It provides core components that extend the standard library's capabilities. It provides (mostly) header-only libraries of general interest, in the spirit of the STL, Boost, Adobe Source Libraries or Facebook's Folly and Fatal.
 
-### GUI Framework
+### Desktop UI Framework
 - [CopperSpice](http://www.copperspice.com/) - CopperSpice is a C++ library derived from the existing Qt 4.8 framework. Our goal was to change the core design of the libraries, leveraging template functionality and C++11 capabilities.
+- [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef) - The Chromium Embedded Framework (CEF) is a simple framework for embedding Chromium-based browsers in other applications.
 
 ### Web Framework
 - [Wt](http://www.webtoolkit.eu/wt) - Wt (pronounced as witty) is a C++ library for developing web applications. The API is widget-centric and uses well-tested patterns of desktop GUI development tailored to the web. 
