@@ -34,6 +34,7 @@
 
 ### Graphic 
 - [three.js](https://github.com/mrdoob/three.js/) - The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides <canvas>, <svg>, CSS3D and WebGL renderers.
+- [Popmotion](https://github.com/Popmotion/popmotion) - Popmotion is a 12kb JavaScript motion engine. Make it pop with animation, physics, and input tracking. In the browser, on Node, anywhere.
 
 ### UI Component
 - [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.
