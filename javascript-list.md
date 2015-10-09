@@ -40,6 +40,9 @@
 ### Loader
 - [SystemJS](https://github.com/systemjs/systemjs) - Universal dynamic module loader - loads ES6 modules, AMD, CommonJS and global scripts in the browser and NodeJS. Works with both Traceur and Babel.
 
+### Debug
+- [debug](https://github.com/visionmedia/debug) - tiny node.js & browser debugging utility for your libraries and applications
+
 ### Transpiler
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler. Use next generation JavaScript, today.
 
