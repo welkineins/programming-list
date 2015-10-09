@@ -10,6 +10,7 @@
 - [Vue.js](http://vuejs.org/) - Vue.js is a library for building modern web interfaces. It provides data-reactive components with a simple and flexible API.
 - [Aurelia](http://aurelia.io/index.html) - Aurelia is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity.
 - [Cycle.js](http://cycle.js.org/) - A fully reactive JavaScript framework for Human-Computer Interaction
+- [Polymer](https://www.polymer-project.org/) - Polymer 1.0 has been rebuilt from the ground up for speed and efficiency. The new, leaner core library makes it easier than ever to make fast, beautiful, and interoperable web components. If you haven't used Polymer before, it's time to try it out. If you haven't tried it recently, time to take another look.
 
 ### Mobile UI Framework
 - [Ironic](http://ionicframework.com/) - The beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
