@@ -1,5 +1,8 @@
 ## JavaScript
 
+### Codeing Style
+- [JavaScript Standard Style](https://github.com/feross/standard) - JavaScript Standard Style — One Style to Rule Them All
+
 ### App Framework
 - [Meteor](https://www.meteor.com/) - Meteor is a complete open source platform for building web and mobile apps in pure JavaScript.
 
