@@ -49,6 +49,12 @@
 
 ### Transpiler
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler. Use next generation JavaScript, today.
+- [Scala.js](http://www.scala-js.org/) - Scala.js compiles Scala code to JavaScript, allowing you to write your web application entirely in Scala! Take a look at the project gallery to see what kind of things you can build with Scala.js.
+- [ClojureScript](https://github.com/clojure/clojurescript) - ClojureScript is a new compiler for Clojure that targets JavaScript. It is designed to emit JavaScript code which is compatible with the advanced compilation mode of the Google Closure optimizing compiler.
+- [CoffeeScript](http://coffeescript.org/) - CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
+- [TypeScript](http://www.typescriptlang.org/) - TypeScript lets you write JavaScript the way you really want to.
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+Any browser. Any host. Any OS. Open Source.
 
 ### Testing
 - [PhantomJS](http://phantomjs.org/) - PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
@@ -74,9 +80,6 @@
 - [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [MediumEditor](https://github.com/yabwe/medium-editor) - This is a clone of medium.com inline editor toolbar. MediumEditor has been written using vanilla JavaScript, no additional frameworks required.
 - [ContentTools](https://github.com/getmeuk/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
-
-### Meta Language
-- [Scala.js](http://www.scala-js.org/) - Scala.js compiles Scala code to JavaScript, allowing you to write your web application entirely in Scala! Take a look at the project gallery to see what kind of things you can build with Scala.js.
 
 ### IoT
 - [cnc.js](http://cheton.github.io/cnc.js/) - CNC.js is a web-based CNC milling controller for the Arduino running GRBL.
