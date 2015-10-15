@@ -115,3 +115,6 @@ Any browser. Any host. Any OS. Open Source.
 
 ### Transpiler
 - [cssnext](http://cssnext.io/) - cssnext is a CSS transpiler that allows you to use the latest CSS syntax today. It transforms new CSS specs into more compatible CSS so you don't need to wait for browser support.
+
+### Font
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/) - Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
