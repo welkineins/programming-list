@@ -118,3 +118,8 @@ Any browser. Any host. Any OS. Open Source.
 
 ### Font
 - [Font Awesome](https://fortawesome.github.io/Font-Awesome/) - Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+
+## UI Material
+
+### ICON
+- [Material Design Icons](http://www.materialui.co/icons) - POPULAR MATERIAL DESIGN ICONS
