@@ -46,6 +46,7 @@
 - [NProgress](https://github.com/rstacruz/nprogress) - Slim progress bars for Ajax'y applications. Inspired by Google, YouTube, and Medium.
 - [clipboard.js](http://zenorocha.github.io/clipboard.js/) - Copying text to the clipboard shouldn't be hard. It shouldn't require dozens of steps to configure or hundreds of KBs to load. But most of all, it shouldn't depend on Flash or any bloated framework.
 - [VueStrap](http://yuche.github.io/vue-strap/) - Bootstrap components built with pure Vue.js. No jQuery, bootstrap.js, or any 3rd party plugins required.
+- [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 
 ### Loader
 - [SystemJS](https://github.com/systemjs/systemjs) - Universal dynamic module loader - loads ES6 modules, AMD, CommonJS and global scripts in the browser and NodeJS. Works with both Traceur and Babel.
