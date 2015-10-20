@@ -130,3 +130,6 @@ Any browser. Any host. Any OS. Open Source.
 
 ### ICON
 - [Material Design Icons](http://www.materialui.co/icons) - POPULAR MATERIAL DESIGN ICONS
+
+### Free images
+- [LibreStock](http://librestock.com/) - search the best 30 free stock photo websites in one place
