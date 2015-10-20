@@ -12,6 +12,9 @@
 ### Web Framework
 - [Wt](http://www.webtoolkit.eu/wt) - Wt (pronounced as witty) is a C++ library for developing web applications. The API is widget-centric and uses well-tested patterns of desktop GUI development tailored to the web. 
 
+### Application Framework
+- [Seastar](https://github.com/scylladb/seastar) - SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner (once understood). It is based on futures.
+
 ### Actor Framework
 - [CAF_C++ Actor Framework](http://actor-framework.org/) - An Open Source Implementation  of the Actor Model in C++.
 - [SObjectizer](http://sourceforge.net/projects/sobjectizer/) - SObjectizer is a small tool for simplification of development of concurrent and event-driven applications in C++. It was used for projects of various sizes: from very small utilities to large distributed and highly loaded applications.
