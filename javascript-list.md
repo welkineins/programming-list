@@ -33,8 +33,9 @@
 - [Rickshaw](http://code.shutterstock.com/rickshaw/) - Rickshaw is a JavaScript toolkit for creating interactive time series graphs.
 - [TimelineJS](https://timeline3.knightlab.com/) - TimelineJS is Knight Lab's most widely used product. TimelineJS 3 is a full rewrite designed to make this popular tool more flexible for authors and developers.
 
-### Animations
+### Animation
 - [Motion UI](http://zurb.com/playground/motion-ui) - A Sass library for creating flexible CSS transitions and animations.
+- [Velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 
 ### Graphic 
 - [three.js](https://github.com/mrdoob/three.js/) - The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides <canvas>, <svg>, CSS3D and WebGL renderers.
