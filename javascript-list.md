@@ -114,6 +114,9 @@ Any browser. Any host. Any OS. Open Source.
 - [Bower](http://bower.io/) - A package manager for the web
 - [Jam](http://jamjs.org/) - For front-end developers who crave maintainable assets, Jam is a package manager for JavaScript. Unlike other repositories, we put the browser first.
 
+### Distributed System
+- [ringpop-node](https://github.com/uber/ringpop-node) - Ringpop is a library that brings cooperation and coordination to distributed applications. It maintains a consistent hash ring on top of a membership protocol and provides request forwarding as a routing convenience. It can be used to shard your application in a way that's scalable and fault tolerant.
+
 ## CSS
 
 ### Transpiler
