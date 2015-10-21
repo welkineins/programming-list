@@ -126,6 +126,9 @@ Any browser. Any host. Any OS. Open Source.
 ### Font
 - [Font Awesome](https://fortawesome.github.io/Font-Awesome/) - Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
+### UI Component
+- [data-tip.css](https://github.com/egoist/data-tip.css) - Wow, such tooltip, with pure css!
+
 ## UI Material
 
 ### ICON
