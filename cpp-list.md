@@ -3,6 +3,7 @@
 ### Base Library
 - [POCO](http://pocoproject.org/) - Modern, powerful open source C++ class libraries for building network- and internet-based applications that run on desktop, server, mobile and embedded systems.
 - [Atria](http://abletonag.github.io/atria/) - Atria is a toolkit for modern C++ development. It provides core components that extend the standard library's capabilities. It provides (mostly) header-only libraries of general interest, in the spirit of the STL, Boost, Adobe Source Libraries or Facebook's Folly and Fatal.
+- [BDE](https://github.com/bloomberg/bde) - Basic Development Environment - a set of foundational C++ libraries used at Bloomberg. http://bloomberglabs.com/bde
 
 ### Desktop Framework
 - [CopperSpice](http://www.copperspice.com/) - CopperSpice is a C++ library derived from the existing Qt 4.8 framework. Our goal was to change the core design of the libraries, leveraging template functionality and C++11 capabilities.
