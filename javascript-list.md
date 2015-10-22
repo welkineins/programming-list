@@ -106,6 +106,9 @@ Any browser. Any host. Any OS. Open Source.
 ### i18n
 - [chinese-conv](https://www.npmjs.com/package/chinese-conv) - 簡轉繁，繁轉簡。Conversion between Traditional and Simplified Chinese
 
+### Command Line
+- [vorpal](https://github.com/dthree/vorpal/) - Vorpal is Node's first framework for building interactive CLI applications. With a simple and powerful API, Vorpal opens the door to a new breed of rich, immersive CLI environments like wat and vantage.
+
 ### Runtime
 - [runtime.js](http://runtimejs.org/) - runtime.js is an open-source library operating system for the cloud that runs JavaScript, could be bundled up with an application and deployed as a lightweight and immutable VM image.
 
