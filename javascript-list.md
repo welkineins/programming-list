@@ -135,11 +135,14 @@ Any browser. Any host. Any OS. Open Source.
 ### UI Component
 - [data-tip.css](https://github.com/egoist/data-tip.css) - Wow, such tooltip, with pure css!
 
-## UI Material
+## Front-End Material
 
-### General
+### Design Resource
 - [Facebook Design Resources](http://facebook.github.io/design/) - A collection of free resources made by designers at Facebook.
 - [freebbble](http://freebbble.com/) - What would you think if Freebbble offers higher quality, relatively cheap version of the freebies you can find here? Awesome! I'll buy if the price is affordable.
+
+### General Resource
+- [Awesomes](http://www.awesomes.cn/) - 我們致力於打造高質量的前端資源庫，深度對接到 Github，分析熱度和未來的發展趨勢，並開放中文文檔的翻譯和編輯
 
 ### ICON
 - [Material Design Icons](http://www.materialui.co/icons) - POPULAR MATERIAL DESIGN ICONS
