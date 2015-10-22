@@ -131,8 +131,14 @@ Any browser. Any host. Any OS. Open Source.
 
 ## UI Material
 
+### General
+- [Facebook Design Resources](http://facebook.github.io/design/) - A collection of free resources made by designers at Facebook.
+- [freebbble](http://freebbble.com/) - What would you think if Freebbble offers higher quality, relatively cheap version of the freebies you can find here? Awesome! I'll buy if the price is affordable.
+
 ### ICON
 - [Material Design Icons](http://www.materialui.co/icons) - POPULAR MATERIAL DESIGN ICONS
 
 ### Free images
 - [LibreStock](http://librestock.com/) - search the best 30 free stock photo websites in one place
+- [travel coffee book](http://travelcoffeebook.com/) - Sharing beautiful travel moments. All photos are listed under cc0. 
+That means you can do whatever you want with them. 
