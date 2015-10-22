@@ -94,6 +94,9 @@ Any browser. Any host. Any OS. Open Source.
 
 ## Node.js
 
+### MVC Framework
+- [ThinkJS](http://thinkjs.org/) - A Node.js MVC Framework Based on Promise
+
 ### Debug
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 
