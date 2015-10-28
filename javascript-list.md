@@ -68,6 +68,7 @@ Any browser. Any host. Any OS. Open Source.
 - [Selenium](http://www.seleniumhq.org/) - Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
 - [Mocha](https://mochajs.org/) - Mocha is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
 - [Protractor](https://angular.github.io/protractor/#/) - Protractor is an end-to-end test framework for AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
+- [Nightmare](http://www.nightmarejs.org/) - Nightmare is a high-level browser automation library.
 
 ### Code Coverage
 - [istanbul](https://www.npmjs.com/package/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests
