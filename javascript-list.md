@@ -53,6 +53,7 @@
 
 ### Debug
 - [debug](https://github.com/visionmedia/debug) - tiny node.js & browser debugging utility for your libraries and applications
+- [Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs/) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io http://www.vorlonjs.com
 
 ### Transpiler
 - [Babel](https://babeljs.io/) - Babel is a JavaScript compiler. Use next generation JavaScript, today.
