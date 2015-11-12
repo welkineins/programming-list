@@ -90,6 +90,7 @@ Any browser. Any host. Any OS. Open Source.
 - [Medium.js](http://jakiestfu.github.io/Medium.js/docs/) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)
 - [MediumEditor](https://github.com/yabwe/medium-editor) - This is a clone of medium.com inline editor toolbar. MediumEditor has been written using vanilla JavaScript, no additional frameworks required.
 - [ContentTools](https://github.com/getmeuk/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+- [CodeMirror](https://codemirror.net/) - CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with a number of language modes and addons that implement more advanced editing functionality.
 
 ### IoT
 - [cnc.js](http://cheton.github.io/cnc.js/) - CNC.js is a web-based CNC milling controller for the Arduino running GRBL.
