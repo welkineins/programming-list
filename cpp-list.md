@@ -34,6 +34,9 @@
 ### Generator
 - [cpp_range](https://github.com/whoshuu/cpp_range) - Python-like range iterators for C++
 
+### Format
+- [cppformat](https://github.com/cppformat/cppformat) - C++ Format is an open-source formatting library for C++. It can be used as a safe alternative to printf or as a fast alternative to IOStreams.
+
 ### Media
 - [SDL](http://www.libsdl.org/) - Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 
