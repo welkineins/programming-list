@@ -46,8 +46,9 @@
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
 
-### Build
+### Package Manager
 - [Biicode](https://www.biicode.com/) - C and C++ Dependency Manager with CMake on steroids
+- [Conan](https://github.com/conan-io/conan) - A binary dependency manager and hosting service for developers
 
 ### Linter
 - [flint](https://github.com/facebook/flint) - An open-source lint program for C++ developed by, and used at Facebook.
