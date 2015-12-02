@@ -11,3 +11,6 @@
 
 ### Database
 - [StorIO](https://github.com/pushtorefresh/storio) - modern API for SQLiteDatabase and ContentResolver.
+
+### JNI
+- [jna](https://github.com/java-native-access/jna) - JNA provides Java programs easy access to native shared libraries without writing anything but Java code - no JNI or native code is required. This functionality is comparable to Windows' Platform/Invoke and Python's ctypes.
