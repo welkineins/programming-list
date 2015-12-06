@@ -33,6 +33,7 @@
 - [Rickshaw](http://code.shutterstock.com/rickshaw/) - Rickshaw is a JavaScript toolkit for creating interactive time series graphs.
 - [TimelineJS](https://timeline3.knightlab.com/) - TimelineJS is Knight Lab's most widely used product. TimelineJS 3 is a full rewrite designed to make this popular tool more flexible for authors and developers.
 - [ECharts](https://github.com/ecomfe/echarts) - 基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力。
+- [Labella.js](https://github.com/twitter/labella.js) - If you try to place labels for points on a timeline (or any 1D space), one common problem is the labels often overlap. How about making the labels push each other. Use the force, jedi-style.
 
 ### Animation
 - [Motion UI](http://zurb.com/playground/motion-ui) - A Sass library for creating flexible CSS transitions and animations.
