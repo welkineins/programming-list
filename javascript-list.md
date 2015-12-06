@@ -38,6 +38,7 @@
 ### Animation
 - [Motion UI](http://zurb.com/playground/motion-ui) - A Sass library for creating flexible CSS transitions and animations.
 - [Velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
+- [MoJS](http://mojs.io/) - Motion Graphics For The Web 
 
 ### Graphic 
 - [three.js](https://github.com/mrdoob/three.js/) - The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides <canvas>, <svg>, CSS3D and WebGL renderers.
