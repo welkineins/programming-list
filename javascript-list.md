@@ -32,6 +32,7 @@
 - [odyssey.js](https://github.com/CartoDB/odyssey.js) - The odyssey.js library is being developed to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. The library is open source and freely available to use in your projects. It is initially being built to work with most modern browsers.
 - [Rickshaw](http://code.shutterstock.com/rickshaw/) - Rickshaw is a JavaScript toolkit for creating interactive time series graphs.
 - [TimelineJS](https://timeline3.knightlab.com/) - TimelineJS is Knight Lab's most widely used product. TimelineJS 3 is a full rewrite designed to make this popular tool more flexible for authors and developers.
+- [ECharts](https://github.com/ecomfe/echarts) - 基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力。
 
 ### Animation
 - [Motion UI](http://zurb.com/playground/motion-ui) - A Sass library for creating flexible CSS transitions and animations.
