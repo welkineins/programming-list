@@ -103,6 +103,7 @@ Any browser. Any host. Any OS. Open Source.
 
 ### MVC Framework
 - [ThinkJS](http://thinkjs.org/) - A Node.js MVC Framework Based on Promise
+- [Sails](http://sailsjs.org/) - Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails, but with support for the requirements of modern apps
 
 ### Debug
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
