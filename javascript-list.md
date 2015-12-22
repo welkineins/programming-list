@@ -57,6 +57,9 @@
 - [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [autolink.js](https://github.com/egoist/autolink.js) - Auto-link url and images, email, video, music, <br/> in text.
 
+### Connectivity
+- [UpUp](https://github.com/TalAter/UpUp/) - UpUp is a tiny javascript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea.
+
 ### Loader
 - [SystemJS](https://github.com/systemjs/systemjs) - Universal dynamic module loader - loads ES6 modules, AMD, CommonJS and global scripts in the browser and NodeJS. Works with both Traceur and Babel.
 
