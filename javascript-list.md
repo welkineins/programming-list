@@ -3,6 +3,9 @@
 ### Codeing Style
 - [JavaScript Standard Style](https://github.com/feross/standard) - JavaScript Standard Style — One Style to Rule Them All
 
+### Base Library
+- [Zepto.js](https://github.com/madrobby/zepto) - Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto.
+
 ### App Framework
 - [Meteor](https://www.meteor.com/) - Meteor is a complete open source platform for building web and mobile apps in pure JavaScript.
 
