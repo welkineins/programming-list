@@ -52,6 +52,7 @@
 ### Package Manager
 - [Biicode](https://www.biicode.com/) - C and C++ Dependency Manager with CMake on steroids
 - [Conan](https://github.com/conan-io/conan) - A binary dependency manager and hosting service for developers
+- [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++ (based on CMake ExternalProject). Linux, Mac, Windows, iOS, Android, Raspberry Pi.
 
 ### Linter
 - [flint](https://github.com/facebook/flint) - An open-source lint program for C++ developed by, and used at Facebook.
