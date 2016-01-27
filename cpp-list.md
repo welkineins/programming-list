@@ -82,3 +82,4 @@
 
 ### IDE
 - [CLion](https://www.jetbrains.com/clion/) - This powerful IDE helps you develop in C and C++ on Linux, OS X and Windows, enhancing your productivity with a smart editor, code quality assurance, automated refactorings, and deep integration with CMake build system.
+- [Cevelop](https://www.cevelop.com/) - The C++ IDE for professional developers
