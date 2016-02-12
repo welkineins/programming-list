@@ -1,5 +1,7 @@
 ## Java
 
+### HTTP Server
+- [Ratpack](https://ratpack.io) - Ratpack is a set of Java libraries for building modern HTTP applications. It provides just enough for writing practical, high performance, apps. It is built on Java 8, Netty and reactive principles.
 ### Caching
 - [Ehcache](http://ehcache.org/) - Ehcache is an open source, standards-based cache for boosting performance, offloading your database, and simplifying scalability. It's the most widely-used Java-based cache because it's robust, proven, and full-featured. Ehcache scales from in-process, with one or more nodes, all the way to mixed in-process/out-of-process configurations with terabyte-sized caches.
 - [Caffeine](https://github.com/ben-manes/caffeine) - Caffeine is a high performance, near optimal caching library based on Java 8. For more details, see our user's guide and browse the API docs for the latest release.
