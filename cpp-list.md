@@ -25,6 +25,9 @@
 - [libevent](http://libevent.org/) - The libevent API provides a mechanism to execute a callback function when a specific event occurs on a file descriptor or after a timeout has been reached. Furthermore, libevent also support callbacks due to signals or regular timeouts.
 - [libuv](http://libuv.org/) - libuv is a multi-platform support library with a focus on asynchronous I/O.
 
+### Callback Framework
+- [libsigc++](http://libsigc.sourceforge.net/) - libsigc++ implements a typesafe callback system for standard C++. It allows you to define signals and to connect those signals to any callback function, either global or a member function, regardless of whether it is static or virtual.
+
 ### Cross Language Binding
 - [Djinni](https://github.com/dropbox/djinni) - Djinni is a tool for generating cross-language type declarations and interface bindings. It's designed to connect C++ with either Java or Objective-C. Python support is available in an experimental version on the python branch.
 
