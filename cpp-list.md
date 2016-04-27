@@ -90,3 +90,6 @@
 ### IDE
 - [CLion](https://www.jetbrains.com/clion/) - This powerful IDE helps you develop in C and C++ on Linux, OS X and Windows, enhancing your productivity with a smart editor, code quality assurance, automated refactorings, and deep integration with CMake build system.
 - [Cevelop](https://www.cevelop.com/) - The C++ IDE for professional developers
+
+### Robot
+- [Robot](https://github.com/Robot/robot) - Introducing Robot for C++, a library aimed at facilitating the development of system automation software for the purposes of test automation, self-running demos, and other applications.
