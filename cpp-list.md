@@ -71,6 +71,9 @@
 - [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable unicast and multicast message transport.
 - [tchannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC.
 
+### JSON Parser
+- [GoldFish](https://github.com/OneNoteDev/GoldFish) - A fast JSON and CBOR streaming library, without using memory
+
 ### Network
 - [libtins](http://libtins.github.io/) - libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.
 - [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
