@@ -168,3 +168,6 @@ Any browser. Any host. Any OS. Open Source.
 - [LibreStock](http://librestock.com/) - search the best 30 free stock photo websites in one place
 - [travel coffee book](http://travelcoffeebook.com/) - Sharing beautiful travel moments. All photos are listed under cc0. 
 That means you can do whatever you want with them. 
+
+### IDE
+- [Brackets](http://brackets.io/) - Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you get the right amount of help when you want it. With new features and extensions released every 3-4 weeks, it's like getting presents all year long.
