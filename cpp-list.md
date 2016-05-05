@@ -56,6 +56,7 @@
 - [Biicode](https://www.biicode.com/) - C and C++ Dependency Manager with CMake on steroids
 - [Conan](https://github.com/conan-io/conan) - A binary dependency manager and hosting service for developers
 - [Hunter](https://github.com/ruslo/hunter) - Cross-platform package manager for C++ (based on CMake ExternalProject). Linux, Mac, Windows, iOS, Android, Raspberry Pi.
+- [Pants](http://www.pantsbuild.org/) - Pants is a build system supports Java, Scala, Python, C/C++, Go, Javascript/Node, Thrift, Protobuf and Android code. Adding support for other languages, frameworks and code generators is straightforward.
 
 ### Linter
 - [flint](https://github.com/facebook/flint) - An open-source lint program for C++ developed by, and used at Facebook.
