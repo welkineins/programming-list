@@ -72,6 +72,9 @@
 - [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 - [tchannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC.
 
+### PRC
+- [rpclib](http://rpclib.net/) - Welcome! rpclib is a msgpack-rpc library written using modern C++. The goal of this library is to provide a simple, no-nonsense RPC solution.
+
 ### JSON Parser
 - [GoldFish](https://github.com/OneNoteDev/GoldFish) - A fast JSON and CBOR streaming library, without using memory
 
