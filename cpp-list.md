@@ -48,6 +48,7 @@
 
 ### Math
 - [Libmvec](https://sourceware.org/glibc/wiki/libmvec) - Libmvec is vector math library added in Glibc 2.22.
+- [LibGeoDecomp](http://libgeodecomp.org/index.html) - LibGeoDecomp is an auto-parallelizing library to speed up your stencil code based computer simulations. It runs on virtually all current architectures, be it multi-cores, GPUs, or large scale MPI clusters.
 
 ### Embedded Application
 - [macchina](http://macchina.io/) - macchina.io is an open source software toolkit for quickly building embedded applications for the Internet of Things that run on Linux-based devices like the Raspberry Pi, Beaglebone, RED Brick or Galileo/Edison.
