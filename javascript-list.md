@@ -83,6 +83,7 @@ Any browser. Any host. Any OS. Open Source.
 - [Mocha](https://mochajs.org/) - Mocha is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases. Hosted on GitHub.
 - [Protractor](https://angular.github.io/protractor/#/) - Protractor is an end-to-end test framework for AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.
 - [Nightmare](http://www.nightmarejs.org/) - Nightmare is a high-level browser automation library.
+- [CasperJS](http://casperjs.org/) - Navigation scripting & testing for PhantomJS and SlimerJS
 
 ### Code Coverage
 - [istanbul](https://www.npmjs.com/package/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests
