@@ -79,6 +79,9 @@
 ### JSON Parser
 - [GoldFish](https://github.com/OneNoteDev/GoldFish) - A fast JSON and CBOR streaming library, without using memory
 
+### Immutable
+- [immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ https://sinusoid.es/immer
+
 ### Network
 - [libtins](http://libtins.github.io/) - libtins is a high-level, multiplatform C++ network packet sniffing and crafting library.
 - [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming.
