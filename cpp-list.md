@@ -72,6 +72,7 @@
 - [Avro](https://avro.apache.org/) - Apache Avro™ is a data serialization system.
 - [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 - [tchannel](https://github.com/uber/tchannel) - Network multiplexing and framing protocol for RPC.
+- [cereal](https://github.com/USCiLab/cereal) - cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly turns them into different representations, such as compact binary encodings, XML, or JSON. 
 
 ### PRC
 - [rpclib](http://rpclib.net/) - Welcome! rpclib is a msgpack-rpc library written using modern C++. The goal of this library is to provide a simple, no-nonsense RPC solution.
