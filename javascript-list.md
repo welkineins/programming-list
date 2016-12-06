@@ -172,3 +172,6 @@ That means you can do whatever you want with them.
 
 ### IDE
 - [Brackets](http://brackets.io/) - Brackets is a lightweight, yet powerful, modern text editor. We blend visual tools into the editor so you get the right amount of help when you want it. With new features and extensions released every 3-4 weeks, it's like getting presents all year long.
+
+### Terminal
+- [Browsix](https://browsix.org/) - Run C, C++, Go and Node.js programs as processes in browsers, including LaTeX, GNU Make, Go HTTP servers, and POSIX shell scripts.
