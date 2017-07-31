@@ -110,5 +110,8 @@
 ### logging
 - [spdlog](https://github.com/gabime/spdlog) - Very fast, header only, C++ logging library.
 
+### HTTP
+- [http-parser](https://github.com/nodejs/http-parser) - This is a parser for HTTP messages written in C. It parses both requests and responses. The parser is designed to be used in performance HTTP applications.
+
 ### Windows
 - [cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT is a standard C++ language projection for the Windows Runtime.
