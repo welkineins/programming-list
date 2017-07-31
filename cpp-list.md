@@ -107,5 +107,8 @@
 ### Robot
 - [Robot](https://github.com/Robot/robot) - Introducing Robot for C++, a library aimed at facilitating the development of system automation software for the purposes of test automation, self-running demos, and other applications.
 
+### logging
+- [spdlog](https://github.com/gabime/spdlog) - Very fast, header only, C++ logging library.
+
 ### Windows
 - [cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT is a standard C++ language projection for the Windows Runtime.
