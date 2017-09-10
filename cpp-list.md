@@ -14,6 +14,7 @@
 - [Wt](http://www.webtoolkit.eu/wt) - Wt (pronounced as witty) is a C++ library for developing web applications. The API is widget-centric and uses well-tested patterns of desktop GUI development tailored to the web. 
 - [Crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 - [pistache](https://github.com/oktal/pistache/) - Pistache is a modern and elegant HTTP and REST framework for C++. It is entirely written in pure-C++11 and provides a clear and pleasant API.
+- [beast](https://github.com/boostorg/beast) - Beast is a C++ header-only library serving as a foundation for writing interoperable networking libraries by providing low-level HTTP/1, WebSocket, and networking protocol vocabulary types and algorithms using the consistent asynchronous model of Boost.Asio.
 
 ### Application Framework
 - [Seastar](https://github.com/scylladb/seastar) - SeaStar is an event-driven framework allowing you to write non-blocking, asynchronous code in a relatively straightforward manner (once understood). It is based on futures.
