@@ -23,3 +23,4 @@
 
 ### Test
 - [Mockito](http://mockito.org/) - Tasty mocking framework for unit tests in Java
+- [Karma](http://karma-runner.github.io/2.0/index.html) - A simple tool that allows you to execute JavaScript code in multiple real browsers.
